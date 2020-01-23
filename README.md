@@ -1,0 +1,1 @@
+Composer library installed to provide IDE helpers for the Swoole extension
